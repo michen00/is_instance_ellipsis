@@ -1,4 +1,4 @@
-PKG := template
+PKG := is_instance_ellipsis
 PIP := python -m pip
 
 build: build-deps
